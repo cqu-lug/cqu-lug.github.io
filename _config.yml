@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: LUG@CQU
-email:  cqulug@googlegroups.com
+email:  cqulug@cqulug.club
 domain: cqulug.club
 description: >- # this means to ignore newlines until "baseurl:"
   LUG@CQU 是由重庆大学自由/开源软件爱好者及 GNU/Linux 用户发起并建立的技术团体
