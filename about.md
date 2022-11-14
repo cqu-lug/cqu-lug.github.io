@@ -4,15 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+LUG@CQU 是由重庆大学自由/开源软件爱好者及 GNU/Linux 用户发起并建立的技术团体，其前身是“CQU 自由/开源项目目录”。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+我们欢迎一切热爱计算机技术、热爱自由/开源软件的重大师生。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
