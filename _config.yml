@@ -29,6 +29,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - activity.md
+  - join.md
+  - about.md
+
 lang: zh-cn
 
 minima:
